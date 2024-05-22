@@ -3,3 +3,10 @@ footer{
     height: 350px;
     background-color: #010101;
 }
+.a-footer{
+    color: red;
+    border: gold solid 1px;
+    border-radius: 1em;
+    margin: 2px;
+    padding: 3px;
+}
