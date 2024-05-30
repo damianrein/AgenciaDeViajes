@@ -23,3 +23,7 @@ main{width: 100%;}
     border: gold solid 1px;
     border-radius: 1em;
 }
+.card-img{
+    max-width: 90%;
+    max-height: 90%;
+}
