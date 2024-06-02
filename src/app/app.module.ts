@@ -7,6 +7,7 @@ import { MenunavsComponent } from './menunavs/menunavs.component';
 import { FooterappComponent } from './footerapp/footerapp.component';
 import { DashboardComponent } from './dashboard/dashboard.component';
 import { PageNotFoundComponent } from './page-not-found/page-not-found.component';
+import { CreatePackComponent } from './create-pack/create-pack.component';
 
 @NgModule({
   declarations: [
@@ -14,7 +15,8 @@ import { PageNotFoundComponent } from './page-not-found/page-not-found.component
     MenunavsComponent,
     FooterappComponent,
     DashboardComponent,
-    PageNotFoundComponent
+    PageNotFoundComponent,
+    CreatePackComponent
   ],
   imports: [
     BrowserModule,
