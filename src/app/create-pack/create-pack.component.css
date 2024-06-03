@@ -1,0 +1,12 @@
+body{
+    width: 100%;
+    background-color: #c1c1c1;
+}
+main{
+    width: 100%;
+    background-color: #c1c1c1;
+}
+.div-with-form{
+    background-color: dimgrey;
+    text-align: center;
+}
