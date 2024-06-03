@@ -16,6 +16,9 @@
     border: red solid 1px;
     border-radius: 5px;
 }
+a{
+    color: #ffd600;
+}
 .img-head{
     height: 300px;
     width: 100%;

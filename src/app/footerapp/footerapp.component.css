@@ -3,6 +3,9 @@ footer{
     height: 350px;
     background-color: #010101;
 }
+ul{
+    padding: 1em;
+}
 .a-footer{
     color: red;
     border: gold solid 1px;

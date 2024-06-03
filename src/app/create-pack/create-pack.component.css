@@ -7,20 +7,22 @@ main{
     background-color: #c1c1c1;
 }
 .div-with-form{
+    margin-left: 2%;
     border: #c1c1c1 solid 1px;
     border-radius: 1em;
     background-color: dimgrey;
     text-align: center;
-    width: 65%;
-    margin-left: 17%;
+    width: 95%;
+
 }
 .div-with-input{
+    display: inline-block;
     border: grey solid 1px;
     border-radius: 1em;
     padding: 1em;
 }
 input{
     min-height: 45px;
-    width: 80%;
+    min-width: 98%;
     border-radius: 1em;
 }
