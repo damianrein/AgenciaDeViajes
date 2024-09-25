@@ -8,6 +8,7 @@ import { FooterappComponent } from './footerapp/footerapp.component';
 import { DashboardComponent } from './dashboard/dashboard.component';
 import { PageNotFoundComponent } from './page-not-found/page-not-found.component';
 import { CreatePackComponent } from './create-pack/create-pack.component';
+import { LoginComponent } from './login/login.component';
 
 @NgModule({
   declarations: [
@@ -16,7 +17,8 @@ import { CreatePackComponent } from './create-pack/create-pack.component';
     FooterappComponent,
     DashboardComponent,
     PageNotFoundComponent,
-    CreatePackComponent
+    CreatePackComponent,
+    LoginComponent
   ],
   imports: [
     BrowserModule,
