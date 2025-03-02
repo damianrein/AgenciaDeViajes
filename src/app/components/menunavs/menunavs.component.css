@@ -1,5 +1,5 @@
 .ul1{
-    background-color: #010101;
+    background-color: #3ccefa7a;
     text-align: right;
 }
 .divicon{
@@ -8,18 +8,22 @@
 }
 .li1{
     display: inline-block;
-    font-style: italic;
+    font-style: bold;
+    
+    font-size: 24px;
     /* color: gold; */
-    color: #ffd600;
+    color: #000000;
     padding: 5px;
     margin: 5px;
-    border: red solid 1px;
+    /*border: rgb(20, 92, 247) solid 1px;*/
     border-radius: 5px;
 }
 a{
-    color: #ffd600;
+    color: #000000;
+    font-size: 24px;
+    text-decoration: none;
 }
 .img-head{
-    height: 300px;
+    height: auto;
     width: 100%;
 }

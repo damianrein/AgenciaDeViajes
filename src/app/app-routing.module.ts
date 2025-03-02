@@ -1,8 +1,8 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
-import { DashboardComponent } from './dashboard/dashboard.component';
-import { PageNotFoundComponent } from './page-not-found/page-not-found.component';
-import { CreatePackComponent } from './create-pack/create-pack.component';
+import { DashboardComponent } from './components/dashboard/dashboard.component';
+import { PageNotFoundComponent } from './components/page-not-found/page-not-found.component';
+import { CreatePackComponent } from './components/create-pack/create-pack.component';
 
 const routes: Routes = [
   {path:'dashboard', component:DashboardComponent},
